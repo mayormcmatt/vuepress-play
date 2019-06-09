@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{185:function(n,t,e){"use strict";var c=e(69);e.n(c).a},190:function(n,t,e){"use strict";e.r(t);e(185);var c=e(0),o=Object(c.a)({},function(){var n=this.$createElement;return(this._self._c||n)("h2",[this._v("I am Front component")])},[],!1,null,"44f4bb74",null);t.default=o.exports},69:function(n,t,e){}}]);
